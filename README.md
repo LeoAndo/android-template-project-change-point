@@ -3,9 +3,9 @@ Repository for checking the change point of the template provided by "Android St
 
 [Change Point](https://github.com/LeoAndo/android-template-project-change-point/pulls).<br>
 
-# Android Studio Beta Version (JetBrains Toolbox)
+# Android Studio Canary Version (JetBrains Toolbox)
 
-<img width="440" alt="スクリーンショット 2022-05-13 20 33 26" src="https://user-images.githubusercontent.com/16476224/168274920-a00efe42-7adb-41be-976f-1042aac3ba20.png">
+<img width="436" alt="スクリーンショット 2022-05-13 20 34 20" src="https://user-images.githubusercontent.com/16476224/168275041-af7cff32-ed9b-454d-a300-617245de90b6.png">
 
 # Minimum SDK
 <img width="804" alt="スクリーンショット 2022-05-13 19 20 55" src="https://user-images.githubusercontent.com/16476224/168264188-6479b76f-7723-4d90-b6e9-d3e7957b3dd7.png">
