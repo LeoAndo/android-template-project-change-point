@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.m2emptyactivityjava'
+    namespace 'com.leoleo.m2emptyactivityjava'
     compileSdkPreview "Tiramisu"
 
     defaultConfig {
-        applicationId "com.example.m2emptyactivityjava"
+        applicationId "com.leoleo.m2emptyactivityjava"
         minSdkPreview "Tiramisu"
         targetSdkPreview "Tiramisu"
         versionCode 1

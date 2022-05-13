@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.m3basicactivity'
+    namespace 'com.leoleo.m3basicactivity'
     compileSdkPreview "Tiramisu"
 
     defaultConfig {
-        applicationId "com.example.m3basicactivity"
+        applicationId "com.leoleo.m3basicactivity"
         minSdkPreview "Tiramisu"
         targetSdkPreview "Tiramisu"
         versionCode 1
