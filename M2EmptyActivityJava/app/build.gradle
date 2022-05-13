@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.leoleo.m2emptyactivityjava'
     compileSdkPreview "Tiramisu"
 
     defaultConfig {
