@@ -1,6 +1,8 @@
 # Overview
 Repository for checking the change point of the template provided by "Android Studio".<br>
 
+[Change Point](https://github.com/LeoAndo/android-template-project-change-point/pulls).<br>
+
 # Android Studio Stable Version (JetBrains Toolbox)
 
 <img width="407" alt="スクリーンショット 2022-05-13 19 16 12" src="https://user-images.githubusercontent.com/16476224/168263433-7a700a00-ef66-496f-b0a2-7570b35f8208.png">
